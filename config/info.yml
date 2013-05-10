@@ -7,4 +7,4 @@ email:   <%= env :email,   'dan@yovu.co'  %>
 about:   <%= env :about,   'Software Engineer, Blogger, Businessmen, Gamer and Anime Lover.' %>
 
 # Google Analytics
-ga_id:   <%= env :ga,      ''  %>
+ga_id:   <%= env :ga,      'UA-39352206-3'  %>
