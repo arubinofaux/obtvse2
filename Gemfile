@@ -29,7 +29,7 @@ platform :jruby do
 end
 
 platform :ruby do
-  gem 'pg', '~> 0.14'
+  #gem 'pg', '~> 0.14'
   gem 'unicorn'
 end
 
@@ -52,4 +52,5 @@ group :assets do
   gem 'sass-rails', '~> 3'
   gem 'coffee-rails', '~> 3'
   gem 'uglifier', '~> 1'
+  gem 'therubyracer', :platforms => :ruby
 end
