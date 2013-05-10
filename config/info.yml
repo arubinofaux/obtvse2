@@ -4,7 +4,7 @@ name:    <%= env :name,    'Dan Vera' %>
 twitter: <%= env :twitter, 'drkyro' %>
 github:  <%= env :github,  'drkyro'  %>
 email:   <%= env :email,   'dan@yovu.co'  %>
-about:   <%= env :about,   'like elves with attitude, but hackers with heart...' %>
+about:   <%= env :about,   'Software Engineer, Blogger, Businessmen, Gamer and Anime Lover.' %>
 
 # Google Analytics
 ga_id:   <%= env :ga,      ''  %>
