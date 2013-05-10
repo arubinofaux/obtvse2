@@ -35,6 +35,7 @@ end
 
 group :production do
   gem 'aws-sdk', '~> 1.3.4'
+  gem 'mysql2'
 end
 
 group :development, :test do
