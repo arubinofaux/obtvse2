@@ -2,3 +2,4 @@
 {"contributors":[],"silentsave":false,"ts":1368219535072,"patch":[[{"diffs":[[0,"    "],[-1,"= render partial: 'application/typekit'"],[0,"\n   "]],"start1":171,"start2":171,"length1":47,"length2":8}]],"length":710,"saved":false}
 {"ts":1368219742478,"patch":[[{"diffs":[[0,"in'\n    "],[1,"= render partial: 'application/typekit'"],[0,"\n    lin"]],"start1":167,"start2":167,"length1":16,"length2":55}]],"length":749,"saved":false}
 {"ts":1368220058878,"patch":[[{"diffs":[[0,"    "],[-1,"= render partial: 'application/typekit'"],[0,"\n   "]],"start1":171,"start2":171,"length1":47,"length2":8}]],"length":710,"saved":false}
+{"ts":1368220803856,"patch":[[{"diffs":[[0,"in'\n    "],[1,"= render partial: 'application/typekit'"],[0,"\n    lin"]],"start1":167,"start2":167,"length1":16,"length2":55}]],"length":749,"saved":false}
